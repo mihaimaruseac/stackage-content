@@ -8,7 +8,7 @@ timestamp: 2025-07-16T07:00:00Z
 ## Stackage LTS 24 has been released
 
 The Stackage team is happy to announce that
-[Stackage LTS version 24](https://www.stackage.org/lts-22.0) has finally been
+[Stackage LTS version 24](https://www.stackage.org/lts-24.0) has finally been
 released a couple of days ago, based on GHC stable version 9.10.2.
 
 LTS 24 includes many
