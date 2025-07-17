@@ -42,8 +42,8 @@ particular packages are disabled is to look for their `< 0` lines in
 [build-constraints.yaml](https://github.com/commercialhaskell/stackage/blob/master/build-constraints.yaml),
 particularly under the `"Library and exe bounds failures"` section.
 We also have some
-[tracking issues](https://github.com/commercialhaskell/stackage/issues?q=is%3Aissue+is%3Aopen+label%3Aghc-9.10)
-still open related to 9.10 core boot libraries.
+[tracking issues](https://github.com/commercialhaskell/stackage/issues?q=is%3Aissue+is%3Aopen+label%3Aghc-9.12)
+still open related to 9.12 core boot libraries.
 
 Thank you to all those who have already done work updating their packages for ghc-9.12.
 
